@@ -23,16 +23,12 @@ In this repository, you will find the repo to automate your kijiji ad posting, m
 
 ## Features
 
-- A very unique gift to give to someone special
-- Contains images of roses, chocolates, earrings, and lip gloss
-- A very neat message that can be customized upon request
-- Runs of CR2032 batteries or CR123A batteries
-- Pretty RGB LEDS 
+- An automation script that can be used everyday so that you do not need to manually post ads everyday to keep the listing on the top.
 
 ## Installation
 
 - Run the script using Python 2.7 or above.
-  
+- Use windows 10 or 11, 4k monitor for proper results  
 ## Usage
 
 - Make sure to have all pictures and ad descriptions of the ad in the same folder and update the glossary in the script with the right Kijiji parameters, a sample is in the script.
