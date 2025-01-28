@@ -1,5 +1,4 @@
 # Auto-Kijiji
-# Love-PCB
 [![Build status](https://ci.appveyor.com/api/projects/status/yc3leb1t5t6ue01i?svg=true)]()
 
 This is a a Repository containing a Python script to automate kijiji delete and repost ads 
