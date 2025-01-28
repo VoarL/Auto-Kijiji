@@ -4,8 +4,8 @@
 This is a a Repository containing a Python script to automate kijiji delete and repost ads 
 
 [![License](https://img.shields.io/badge/License-GNU%20GPL-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/VoarL/Auto-Kijiji.svg)](https://github.com/VoarL/Love-PCB/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/VoarL/Auto-Kijiji.svg)](https://github.com/VoarL/Love-PCB/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/VoarL/Auto-Kijiji.svg)](https://github.com/VoarL/Auto-Kijiji/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/VoarL/Auto-Kijiji.svg)](https://github.com/VoarL/Auto-Kijiji/stargazers)
 
 ## Table of Contents
 
